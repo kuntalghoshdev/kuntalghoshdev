@@ -11,14 +11,14 @@ Hi 👋, I'm Kuntal
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kuntal131204&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=kuntalghoshdev&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
 ## 🎓 About Me
 
-- 🎓 **B.Tech in Computer Science & Engineering (1st Year)**  
+- 🎓 **B.Tech in Computer Science & Engineering (2nd Year)**  
 - 🏫 **University of Engineering & Management, Kolkata**  
 - 💡 Passionate about building real-world software solutions  
 - 🚀 Curious learner with a strong interest in backend systems and emerging technologies  
@@ -38,7 +38,7 @@ Exploring **Artificial Intelligence**, with a growing interest in **Backend Deve
 ## 🔗 Coding Profiles
 
 <p align="left">
-  <a href="https://github.com/kuntal131204" target="_blank">
+  <a href="https://github.com/kuntalghoshdev" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
   </a>
 </p>
@@ -70,24 +70,24 @@ Exploring **Artificial Intelligence**, with a growing interest in **Backend Deve
 ### 🔹 Smart-Ghat-CalcuttaHacks
 - IoT-powered dashboard for monitoring Kolkata’s heritage ghats
 - Blending technology, culture, and sustainability.  
-- 🔗 https://github.com/kuntal131204/Smart-Ghat-CalcuttaHacks
+- 🔗 https://github.com/kuntalghoshdev/Smart-Ghat-CalcuttaHacks
 
 ### 🔹 To-Do-List Android App
 - A simple Android To-Do app with reminder notifications, task completion tracking, and persistent storage.  
 - Clean & Smooth UI experience 
-- 🔗 https://github.com/kuntal131204/To-Do-List  
+- 🔗 https://github.com/kuntalghoshdev/To-Do-List  
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kuntal131204&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuntal131204&layout=compact&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kuntalghoshdev&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuntalghoshdev&layout=compact&theme=tokyonight" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kuntal131204&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kuntalghoshdev&theme=tokyonight" />
 </p>
 
 ---
@@ -95,10 +95,10 @@ Exploring **Artificial Intelligence**, with a growing interest in **Backend Deve
 ## 📬 Contact Me
 
 <p align="left">
-  <a href="www.linkedin.com/in/kuntalghosh-bytekicker" target="_blank">
+  <a href="www.linkedin.com/in/kuntalghoshdev" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="35"/>
   </a>
-  <a href="mailto:business.teamkuntal@gmail.com">
+  <a href="hello@kuntalghosh.in">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="35"/>
   </a>
   <a href="https://www.instagram.com/_bytekicker" target="_blank">
