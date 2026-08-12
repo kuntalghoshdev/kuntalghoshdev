@@ -231,7 +231,7 @@
 </p>
 
 ---
-
+<!--
 ## 🔥 Coding Streak
 
 <p align="center">
@@ -241,6 +241,7 @@
     width="70%"
   />
 </p>
+-->
 
 ## 🌐 Connect With Me
 
