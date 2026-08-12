@@ -235,13 +235,11 @@
 ## 🔥 Coding Streak
 
 <p align="center">
-  <a href="https://github.com/kuntalghoshdev">
-    <img
-      src="https://streak-stats.demolab.com/?user=kuntalghoshdev&theme=tokyonight&hide_border=true"
-      width="70%"
-      alt="GitHub Contribution Streak"
-    />
-  </a>
+  <img
+    src="https://streak-stats.demolab.com?user=kuntalghoshdev&theme=tokyonight&hide_border=true"
+    alt="GitHub Contribution Streak"
+    width="70%"
+  />
 </p>
 
 ## 🌐 Connect With Me
