@@ -40,7 +40,6 @@
 
 ## 🎯 What I'm Currently Doing
 
-```text
 ┌──────────────────────────────────────────────────────┐
 │                                                      │
 │  📚 Learning        → DSA & Problem Solving          │
@@ -123,4 +122,4 @@ Persistent storage
 
 One commit at a time.
 
-</p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0E75B6&height=100&section=footer" /> </p> ```
+</p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0E75B6&height=100&section=footer" /> </p>
