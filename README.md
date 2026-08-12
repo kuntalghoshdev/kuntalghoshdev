@@ -27,7 +27,7 @@
 
 🎓 **B.Tech in Computer Science & Engineering — 2nd Year**
 
-🏫 **University of Engineering & Management, Kolkata**
+🏫 **Institute of Engineering & Management, NewTown**
 
 💡 Passionate about turning ideas into practical software solutions.
 
