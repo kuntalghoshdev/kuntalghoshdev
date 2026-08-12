@@ -200,23 +200,48 @@
 ## 🏆 GitHub Achievements
 
 <p align="center">
+
   <a href="https://github.com/kuntalghoshdev">
-    <img
-      src="https://github-profile-trophy.vercel.app/?username=kuntalghoshdev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8"
-      width="90%"
-    />
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+
+  <a href="https://github.com/kuntalghoshdev?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-Explore-0E75B6?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/kuntalghoshdev?tab=stars">
+    <img src="https://img.shields.io/badge/Stars-View-FFD700?style=for-the-badge&logo=github&logoColor=181717" />
+  </a>
+
+</p>
+
+<p align="center">
+  <i>Check my GitHub profile for my official achievements, contribution history and activity.</i>
 </p>
 
 ---
 
-## 🔥 Contribution Streak
+## 📈 Contribution Activity
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=kuntalghoshdev&theme=tokyonight&hide_border=true"
-    width="70%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=kuntalghoshdev&theme=tokyo-night&hide_border=true&area=true"
+    width="95%"
   />
+</p>
+
+---
+
+## 🔥 Coding Streak
+
+<p align="center">
+  <a href="https://github.com/kuntalghoshdev">
+    <img
+      src="https://streak-stats.demolab.com/?user=kuntalghoshdev&theme=tokyonight&hide_border=true"
+      width="70%"
+      alt="GitHub Contribution Streak"
+    />
+  </a>
 </p>
 
 ## 🌐 Connect With Me
